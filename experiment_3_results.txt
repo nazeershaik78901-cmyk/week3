@@ -1,0 +1,72 @@
+
+============================================================
+ITERATION 0
+============================================================
+
+PROMPT:
+Explain photosynthesis to a 10-year-old.
+
+RESPONSE:
+Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+
+============================================================
+ITERATION 1
+============================================================
+
+PROMPT:
+You are a friendly science teacher. Explain photosynthesis to a 10-year-old using a simple analogy. Keep the explanation to 3 short sentences and avoid technical jargon.
+
+RESPONSE:
+Think of a plant as a tiny green chef that makes its own snacks. 
+
+It catches warm sunlight, drinks up water, and mixes them with air to bake sweet food. 
+
+This yummy treat gives the plant all the energy it needs to grow big and strong!
+
+
+============================================================
+ITERATION 2
+============================================================
+
+PROMPT:
+You are a friendly science teacher. Explain photosynthesis to a 10-year-old using a simple analogy. Keep the explanation short and avoid technical jargon. Include a simple memory trick and describe a basic diagram.
+
+RESPONSE:
+Hello there, future scientist! 
+
+Have you ever wondered how plants eat without a mouth? They actually make their own meals, and the process is called **photosynthesis**. 
+
+Think of a green leaf as a **tiny solar-powered kitchen**, and the plant as a master chef!
+
+To cook its favorite meal, the plant chef needs three simple ingredients:
+1. **Water** (drawn up through the straw-like roots in the dirt)
+2. **Air** (caught by tiny invisible pores on the leaves)
+3. **Sunlight** (the "stove" that provides the cooking power)
+
+The plant mixes the water and air using the power of the sun. Ding! The meal is ready. The plant gets **sweet plant food** to help it grow big and strong. 
+
+As a wonderful bonus, the kitchen releases fresh **oxygen** into the air—which is the exact air you and I need to breathe!
+
+---
+
+### A Quick Memory Trick
+The word sounds giant, but break it in half:
+* **Photo** = *Light* (like a bright camera flash!)
+* **Synthesis** = *Putting things together*
+
+So, **Photosynthesis** just means: **"Putting a meal together using light!"**
+
+---
+
+### Picture It! (Simple Diagram)
+If you want to draw this in your notebook, sketch this:
+* Draw a **smiling Sun** at the top with yellow arrows pointing down to a **green leaf**.
+* Draw blue arrows coming from the soil showing **water** traveling up the stem into the leaf.
+* Draw a gray arrow showing **air** going into the leaf.
+* Finally, draw a big, sparkly blue arrow floating *out* of the leaf labeled **fresh oxygen** for us to breathe!
+
+FINAL SUMMARY:
+Iteration 0 provided a basic explanation.
+Iteration 1 improved clarity through analogy and brevity.
+Iteration 2 improved memorability and visualization.
